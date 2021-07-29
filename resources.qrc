@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/arrow_circle_down_black_24dp.svg</file>
+        <file>Icons/arrow_circle_up_black_24dp.svg</file>
+        <file>Icons/check_circle_black_24dp.svg</file>
+        <file>Icons/done_black_24dp.svg</file>
+        <file>Icons/highlight_off_black_24dp.svg</file>
+        <file>Icons/delete_black_24dp.svg</file>
+        <file>Icons/add_black_48dp.svg</file>
+        <file>Icons/attach_money_black_24dp.svg</file>
+    </qresource>
+</RCC>
